@@ -13,8 +13,6 @@ You're one-stop for recipes, It is the best app for any type of cooking and cook
 
 **4.** **User-Friendly UI :** Clean and responsive design for seamless experience.
 
-# 🛠️ Tech Stack
-
 ## 🚀 Technology Documentation
 
 | 🌐 Technology     | 📖 Documentation                                   |
