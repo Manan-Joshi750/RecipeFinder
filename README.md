@@ -6,8 +6,11 @@ You're one-stop for recipes, It is the best app for any type of cooking and cook
 # 🌟 Features
 
 **1.** **Search Recipes :** Find recipes easily by searching for dish names or ingredients.
+
 **2.** **Ingredient Details :** Get a list of required ingredients and their quantities.
+
 **3.** **Save Favorites :** Store favorite recipes in local storage for easy access.
+
 **4.** **User-Friendly UI :** Clean and responsive design for seamless experience.
 
 # 🛠️ Tech Stack
@@ -38,4 +41,5 @@ You're one-stop for recipes, It is the best app for any type of cooking and cook
 
 # 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/3ed78440-cc89-45cf-8111-aa830cb73f2b)
+
 ![image](https://github.com/user-attachments/assets/e03d3860-8579-4780-9577-dada07239a39)
